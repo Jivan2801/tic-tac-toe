@@ -33,7 +33,6 @@ npm start
 
 The app will run at **http://localhost:3000** (or another port if 3000 is busy).
 
-## Screenshots
 
 Gameplay includes:
 
@@ -43,6 +42,5 @@ Gameplay includes:
 
 ---
 
-## Credits
 
 Built as part of the React tutorial for learning React basics.
